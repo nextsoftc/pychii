@@ -20,7 +20,7 @@
 
 <!--Social Links Badges: end-->
 
-<p>I’m pychii, your personal bot and website developer.</p>
+<p>I’m pychii, bot & frontend developer</p>
 
 <!--About me: end-->
 

@@ -1,9 +1,7 @@
 <div align="center">
-<img src="img/hero_banner.svg">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I’m+chi;)](https://git.io/typing-svg)
 
-<!-- uncomment to change banner
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:4CB8C4,100:3CD3AD&height=300&section=header&text=Muhammad%20Faizan&fontSize=90&fontColor=FCFFE7" />
--->
 
 ---
 

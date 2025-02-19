@@ -1,9 +1,9 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I’m+chi;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;)](https://git.io/typing-svg)
 
 <!--Social Links Badges: start-->
 
-<a href="https://github.com/mralpha786">
+<a href="https://github.com/pychii">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
 <a href="">

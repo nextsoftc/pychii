@@ -20,7 +20,7 @@
 
 <!--Social Links Badges: end-->
 
-<p>I’m pychii, bot & frontend developer</p>
+<p>ewan ko putangina hindi ko alam</p>
 
 <!--About me: end-->
 

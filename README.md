@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+putanginamo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+there!" alt="Typing SVG" />
 </p>
 
 <!--Social Links Badges: start-->
@@ -20,7 +20,7 @@
 
 <!--Social Links Badges: end-->
 
-<p>ewan ko putangina hindi ko alam</p>
+<p>professional script kiddie</p>
 
 <!--About me: end-->
 
